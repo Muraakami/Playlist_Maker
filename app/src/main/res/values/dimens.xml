@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="main_menu_button_margin_bottom">16dp</dimen>
+    <dimen name="main_menu_button_radius">16dp</dimen>
+    <dimen name="icon_and_text_padding">8dp</dimen>
+    <dimen name="text_size">22sp</dimen>
+    <dimen name="text_size_small">16sp</dimen>
+    <dimen name="button_height">0dp</dimen>
+
+    <dimen name="padding_horizontal">16dp</dimen>
+    <dimen name="padding_left">16dp</dimen>
+
+    <dimen name="settings_button_back_size">48dp</dimen>
+    <dimen name="settings_menu_item_padding_horizontal">16dp</dimen>
+    <dimen name="settings_menu_item_padding_vertical">21dp</dimen>
+</resources>
